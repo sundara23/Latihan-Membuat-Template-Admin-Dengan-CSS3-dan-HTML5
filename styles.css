@@ -1,0 +1,72 @@
+body{
+  margin: 0;
+  background-color: #dedede;
+}
+.logo{
+  font-family: sans-serif;
+  color: white;
+  padding: 10px;
+}
+.iconmenu{
+  margin: 10px 0 10px 15px;
+}
+.navmenu{
+  float: right;
+  margin: 10px 25px 10px 0;
+  font-family: sans-serif;
+  color: white;
+}
+.info{
+  font-family: sans-serif;
+  color: white;
+  padding: 15px;
+}
+li{
+  color: green;
+}
+.sidebar{
+  height: 100%;
+  width: 20%;
+}
+.col-1-5{
+  width: 20%;
+}
+.col-4-5{
+  width: 80%;
+}
+.search{
+  font-family: sans-serif;
+  color: white;
+  margin: 30px;
+}
+.imagemenu{
+  margin-right: 10px;
+}
+
+.menusidebar{
+  font-family: sans-serif;
+  color: white;
+  padding: 5px 0 2px 30px;
+  list-style-type: none;
+}
+.menusidebar:hover{
+  background: grey;
+}
+.jumbotronku{
+  margin-left: 20px;
+  margin-right: 20px;
+  font-family: fantasy;
+  border-top: solid 3px red;
+}
+.boxku{
+  margin-left: 5px;
+  margin-right: 5px;
+  border-radius: 2px;
+  color: white;
+}
+.boxku h1 {
+  font-family: fantasy;
+}
+.imagebox{
+  float: right;
+}
